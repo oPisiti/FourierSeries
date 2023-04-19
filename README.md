@@ -2,7 +2,7 @@
 
 A nice visual representation of the Fourier Series.
 
-![Screenshot 2023-03-13 234742](https://user-images.githubusercontent.com/78967454/224880155-485f0512-bf65-4962-b802-762c9949a839.png)
+![fourier](https://user-images.githubusercontent.com/78967454/232934173-e01b25b0-cb4a-4511-bc33-559f8fbffe5f.gif)
 
 ## How it works
 At the end of every rotation, a new term of the Fourier series is added.
