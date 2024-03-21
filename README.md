@@ -11,3 +11,11 @@ With time, you can see how those specific waves add up to a triangular ou square
 
 ## Usage
 Clone repository and open index.html
+
+# P5js library
+
+This project uses the p5js library.
+
+Thank you to all the contributors.
+
+For the latest release, go to https://p5js.org/download/
