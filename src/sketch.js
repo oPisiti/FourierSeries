@@ -1,3 +1,6 @@
+// Author:  Lauro França @oPisiti
+// Created: 2023
+
 let countTimes = 0;
 let startup = 1; 					// Initial number of circles
 
