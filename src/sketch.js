@@ -1,5 +1,13 @@
-// Author:  Lauro França @oPisiti
-// Created: 2023
+//********************************************************************
+// Author: Lauro França (oPisiti)                                    #
+// Contact:                                                          #
+//   github: oPisiti                                                 #
+//   Email: contact@opisiti.com                                      #
+// Date: 2023                                                        #
+// Description:                                                      #
+//   A nice visual representation of the Fourier Series              #
+//********************************************************************
+
 
 let countTimes = 0;
 let startup = 1; 					// Initial number of circles
